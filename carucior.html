@@ -1,26 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="ro">
 <head>
-	<title>Talcioc</title>
-	<link rel="stylesheet" type="text/css" href="grid.css">
-	<link rel="stylesheet" type="text/css" href="carucior.css">
-	<script type="text/javascript" src="carucior.js"></script>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+  <title>Talcioc</title>
+  <link rel="stylesheet" type="text/css" href="grid.css"/>
+  <link rel="stylesheet" type="text/css" href="carucior.css"/>
+  <script type="text/javascript" src="carucior.js"></script>
 </head>
-<body onload="produseCos()">
-	<div class="barasus">
-	<a id="title" href="talcioc-index.html">Talcioc</a>
-	<span>
-		<input id="butoncos" type="button" name="cos cumparaturi" value="COS CUMPARATURI" onclick="location.href='carucior.html'" style="float: right;">
-	</span>
+<body onload="deseneazaProduse()">
+
+<div class="barasus">
+  <a id="title" href="talcioc-index.html">Talcioc</a>
+  <span>
+    <input
+      id="butoncos"
+      type="button"
+      name="cos cumparaturi"
+      value="COS CUMPARATURI"
+      onclick="location.href='carucior.html'"
+      style="float: right;"/>
+  </span>
 </div>
 
-<div id="produsecarucior" >;
-	
-</div>
-
-
-
-
+<div id="produse" class="products"></div>
 
 </body>
 </html>

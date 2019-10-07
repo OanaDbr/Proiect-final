@@ -6,19 +6,19 @@ async function draw () {
 	var produse = await response.json();
 	produs = produse[i];
 	var str = "";
-			str=`<div class="col-xs-12 col-md-6 col-lg-3 product"> 
-						<img src="${produs.imagine}"> 
+			str=`<div class="col-xs-12 col-md-8 product"> 
+						<div><img src="${produs.imagine}"></div> 
 						<div class="descriere">
 							<span> <h1>${produs.nume}</h1> </span> <br/>
 							<span> ${produs.descriere} </span>
-							<span> ${produs.pret} </span>
-							<span> ${produs.stoc} </span>
+							<p><strong>Pret</strong>: ${produs.pret}</p>
+							<p><strong>Stoc disponibil</strong>: ${produs.stoc} </p>
 						</div>
 						<div>
 							Cantitate <input type="number" value="0" name="cantitate" id="cantitate">
 						</div>
-						<div>
-						<input type="button" value="Adauga in cos" onclick="adauga()">
+						<div style="margin-top: 1rem;">
+							<input type="button" value="Adauga in cos" style="width: 100%;" onclick="adauga()">
 						</div>
 		
 				</div>`;
