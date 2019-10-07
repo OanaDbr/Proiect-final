@@ -1,0 +1,79 @@
+[{
+	"stoc" : 5,
+	"descriere" : "iPhone xs - Super Retina in doua dimensiuni - inclusiv cel mai mare ecran vazut vreodata la un iPhone. Face ID si mai rapid. Cel mai inteligent si mai puternic cip intalnit la un smartphone.",
+	"imagine" : "https://images-na.ssl-images-amazon.com/images/I/61UojnxVbPL._SY445_.jpg",
+	"nume" : "iPhone xs",
+	"pret" : "5500 Lei"
+},
+
+{
+	"stoc" : 8,
+	"descriere" : "Fara fire. Fara incurcaturi. Fara precedent. Le scoti din cutie si sunt gata sa fie folosite cu toate dispozitivele tale.",
+	"imagine" : "https://images-na.ssl-images-amazon.com/images/I/41Kz9H3v0yL._SY445_.jpg",
+	"nume" : "Casti AirPods",
+	"pret" :"900 Lei"
+},
+
+{
+	"stoc" : 3,
+	"descriere" : "MacBook Air - Noi procesoare Intel Core de generatie a 5-a. Thunderbolt 2. Aceeasi autonomie pentru intreaga zi",
+	"imagine" : "https://images-na.ssl-images-amazon.com/images/I/71iFVjrzsLL._SL1500_.jpg",
+	"nume" : "MacBook Air",
+	"pret" :"5000 Lei"
+},
+
+{
+	"stoc" : 6,
+	"descriere" : "Boxa portabila JBL FLIP 4, Black JBL Flip 4 este noua generatie Flip premiata la CES 2017. Este o boxa portabila bluetooth care ofera un sunet stereo surprinzator de puternic.",
+	"imagine" : "https://s12emagst.akamaized.net/products/5445/5444144/images/res_47ef9f005aae7c18965b1b5becc4b2f0_450x450_g72e.jpg",
+	"nume" : "Boxa portabila JBL",
+	"pret" :"500 Lei"
+},
+
+{
+	"stoc" : 12,
+	"descriere" : "Setul Wireless Surround Kit va permite sa va extindeti cu usurinta sistemul de sunet surround, fara a va incurca in cabluri. Impreuna cu dispozitivul Soundbar puteti crea un sistem 4.1 pentru o veritabila experienta de sunet surround.",
+	"imagine" : "https://s12emagst.akamaized.net/products/3641/3640237/images/res_932a2eb359adf82333bfcf7403735ebc_450x450_1o22.jpg",
+	"nume" : "Soundbar Samsung",
+	"pret" :"1100 Lei"
+},
+
+{
+	"stoc" : 5,
+	"descriere" : "Casti audio On-ear JBL Tune 500, Wireless, Bluetooth, Pure Bass Sound, Hands-free Call, 16H, Negru",
+	"imagine" : "https://s12emagst.akamaized.net/products/17615/17614584/images/res_51d859e1a2a77e187ecd0a45f6b680c6_450x450_b05e.jpg",
+	"nume" : "Casti audio On-ear JBL Tune",
+	"pret" :"235 Lei"
+},
+
+{
+	"stoc" : 2,
+	"descriere" : "Laptop Dell Inspiron 5570 cu procesor Intel® Core™ i5-8250U",
+	"imagine" : "https://s12emagst.akamaized.net/products/21103/21102192/images/res_6146da562dbb58577a62df14a7f2f975_450x450_sn4o.jpg",
+	"nume" : "Laptop Dell Inspiron",
+	"pret" :"2750 Lei"
+},
+
+{
+	"stoc" : 4,
+	"descriere" : "Aparatul Fujifilm mini9 alb este o camera foto ce realizeaza poze de 46x62 mm si le tipareste instant",
+	"imagine" : "https://s12emagst.akamaized.net/products/8681/8680060/images/res_a0bf2eaa870f5cd016b14ac7114079fa_450x450_uc33.jpg",
+	"nume" : "Camera foto instant Fujifilm Instax",
+	"pret" :"320 Lei"
+},
+
+{
+	"stoc" : 2,
+	"descriere" : "Aparat foto digital Canon SX540 HS, 20.3MP, Black. Distractia fara efort si controlul profesional se combina in aceasta camera bridge conectata, cu zoom 50x, care va conduce intr-o calatorie imaginara pentru a crea si partaja fotografii si filme uimitoare.",
+	"imagine" : "https://s12emagst.akamaized.net/products/3452/3451839/images/res_8871b2660ba80be75a3da6b6eec05a58_450x450_oqq5.jpg",
+	"nume" : "Aparat foto digital Canon SX540 HS",
+	"pret" :"1500 Lei"
+},
+
+{
+	"stoc" : 7,
+	"descriere" : "Apple Watch 4, GPS, Carcasa Silver Aluminium 44mm, White Sport Band",
+	"imagine" : "https://s12emagst.akamaized.net/products/17033/17032828/images/res_973d240e0ca7a58d8119204fe86155f5_450x450_ieeo.jpg",
+	"nume" : "Apple Watch 4",
+	"pret" :"2200 Lei"
+}]

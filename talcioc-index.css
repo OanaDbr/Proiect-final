@@ -1,0 +1,60 @@
+body {
+	background-size: auto;
+
+}
+
+#title {
+	font-size: xx-large;
+	font-style: bold;
+	padding: 50px;
+}
+
+#butoncos{
+	background-color: #33c3f1;
+	font-family: arial;
+	color: white;
+	width: 250px;
+	font-size: 15px;
+	
+
+}
+
+#butoncos:hover {
+	background-color: royalblue;
+}
+
+#butonadmin {
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-size: 15px;
+	width: 100px;
+
+}
+
+#butonadmin:hover {
+	background-color: royalblue;
+}
+
+.barasus {
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	padding-bottom: 15px;
+}
+.product img{
+	max-width: 100%;
+	max-height: 300px;
+}
+
+.product {
+	border-radius: 1px;
+	border-color: grey; //nu merge deocamdata
+}
+
+#produse {
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	padding-bottom: 15px;
+}
